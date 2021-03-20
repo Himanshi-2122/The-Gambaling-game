@@ -1,1 +1,2 @@
-# The-Gambaling-game
+# The Gambling Game
+_This game is about casino where the player will choose a random number between 1 to 100 and a random number will be chosen by computer as well then there will be a match between computer and the player. Whoever got higher number than the other will win the match._
